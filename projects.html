@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects | My Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <div class="logo">MY PORTFOLIO</div>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="projects.html" class="active">Projects</a>
+            <a href="index.html#about">About</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="projects-page-header">
+
+            <p class="small-title">MY WORK</p>
+
+            <h1>All Projects</h1>
+
+            <p>
+                Explore academic projects, research, campaigns and
+                creative work completed throughout my university journey.
+            </p>
+
+        </section>
+
+
+        <section class="project-controls">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search projects..."
+            >
+
+            <select id="typeFilter">
+                <option value="all">All project types</option>
+            </select>
+
+        </section>
+
+
+        <section class="projects-section">
+
+            <div
+                class="project-grid"
+                id="projectGrid">
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>© 2026 My Project Portfolio</p>
+    </footer>
+
+
+    <script src="projects.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
