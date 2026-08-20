@@ -7,7 +7,7 @@ const projects = [
 
         id: 1,
 
-        title: "NT114.Q21",
+        title: "Design and Implementation of an IoT-based Electronic Bulletin Board Controlled via Mobile Application",
 
         subtitle:
             "Design and Implementation of an IoT-based Electronic Bulletin Board Controlled via Mobile Application",
