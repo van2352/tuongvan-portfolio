@@ -13,7 +13,7 @@ const projects = [
             "Design and Implementation of an IoT-based Electronic Bulletin Board Controlled via Mobile Application",
 
         subject:
-            "Đồ án chuyên ngành",
+            "Do an chuyen nganh",
 
         semester:
             "2026",
@@ -366,7 +366,7 @@ const projects = [
         "LAN-based Guess The Word Game with Single-player and Multiplayer Modes",
 
     subject:
-        "Lập Trình Mạng Căn Bản",
+        "Lap trinh mang can ban",
 
     classCode:
         "NT106.P12",
@@ -690,7 +690,7 @@ const projects = [
         "Deploy 2 Web Applications to the Same Linux Server (Web Server and DNS Server)",
 
     subject:
-        "Quản trị mạng và hệ thống",
+        "QUAN TRI MANG VA HE THONG",
 
     classCode:
         "NT132.P23",
@@ -1118,7 +1118,7 @@ const projects = [
         "Hiển thị chạy chữ trên LED Matrix 32x8 sử dụng ESP8266 qua Mobile App",
 
     subject:
-        "Hệ thống nhúng Mạng không dây",
+        "He thong nhung mang khong day",
 
     classCode:
         "NT131.P22",
@@ -1564,7 +1564,7 @@ const projects = [
         "Xây dựng hệ thống Federated Learning trên nền tảng FedML",
 
     subject:
-        "Hệ tính toán phân bố",
+        "He tinh toan phan bo",
 
     classCode:
         "NT533.Q12",
@@ -2046,7 +2046,7 @@ const projects = [
         "Giám sát và phân tích hiệu năng mạng Wi-Fi trong môi trường lớp học",
 
     subject:
-        "Đánh giá hiệu năng hệ thống mạng máy tính",
+        "Danh gia hieu nang he thong may tinh",
 
     classCode:
         "NT531.Q12",
@@ -3094,7 +3094,7 @@ const projects = [
         "Hệ thống ưu tiên đèn giao thông cho xe khẩn cấp sử dụng ESP32-CAM, YOLOv8 và YAMNet",
 
     subject:
-        "Công nghệ Internet of Things hiện đại",
+        "CONG NGHE INTERNET OF THINGS HIEN DAI",
 
     classCode:
         "NT532.Q21",
@@ -3791,7 +3791,7 @@ const projects = [
         "Ứng dụng học máy tăng cường trong ra quyết định điều khiển và giảm thiểu tấn công mạng cho mạng SDN",
 
     subject:
-        "Học máy tăng cường cho các hệ thống mạng",
+        "HOC MAY TANG CUONG CHO CAC HE THONG MANG",
 
     classCode:
         "NT549.Q21",
@@ -4539,7 +4539,7 @@ const projects = [
         "Xây dựng pipeline vận hành MLOps cho hệ thống bảo mật mạng SDN tự động dựa trên học máy tăng cường",
 
     subject:
-        "Công nghệ DevOps và ứng dụng",
+        "CONG NGHE DEVOPS VA UNG DUNG",
 
     classCode:
         "NT548.Q21",
@@ -5525,7 +5525,7 @@ const projects = [
         "Thiết kế hệ thống mạng cho Trường Đại học NT-UIT",
 
     subject:
-        "Thiết kế Mạng",
+        "THIET KE MANG",
 
     classCode:
         "NT113.Q21",
@@ -6539,7 +6539,7 @@ const projects = [
         "Security Auditing, Hardening and CI/CD Automation for Docker Infrastructure Based on CIS Docker Benchmark",
 
     subject:
-        "Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng",
+        "Lap trinh kich ban tu dong hoa cho quan tri va bao mat mang",
 
     classCode:
         "NT542.Q22",
