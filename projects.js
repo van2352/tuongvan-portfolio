@@ -81,63 +81,22 @@ const projects = [
 
         contributions: [
 
-            "Researched IoT-based electronic display systems and related technologies",
-
             "Designed the overall system architecture",
-
-            "Designed the communication flow between the mobile application, ESP8266 and LED Matrix",
 
             "Integrated ESP8266 NodeMCU with MAX7219 LED Matrix 32x8",
 
-            "Configured SPI communication between ESP8266 and LED Matrix",
-
-            "Programmed ESP8266 using Arduino IDE",
-
-            "Configured ESP8266 WiFi connectivity",
-
-            "Built a Web Server on ESP8266 using port 80",
-
-            "Implemented HTTP request processing",
-
-            "Implemented URI query parameter parsing",
+            "Configured SPI, WiFi, Web Server and HTTP communication",
 
             "Developed the mobile control application using Flutter and Dart",
 
-            "Designed the Flutter dashboard user interface",
+            "Implemented LED display control, effects and scheduling",
 
-            "Implemented text transmission from the mobile application to ESP8266",
+            "Implemented authentication and Emergency SOS functions",
 
-            "Implemented scrolling text display",
+            "Tested and debugged hardware and software integration",
 
-            "Implemented character-by-character display effect",
+            "Documented the design, implementation and testing process"
 
-            "Implemented adjustable scrolling speed",
-
-            "Implemented adjustable LED brightness",
-
-            "Implemented configurable display loops",
-
-            "Implemented Blink display effect",
-
-            "Implemented STOP RUNNING functionality",
-
-            "Implemented real-time clock display",
-
-            "Implemented automatic scheduled content display",
-
-            "Implemented password authentication",
-
-            "Implemented Emergency SOS Mode",
-
-            "Tested WiFi communication between the mobile application and ESP8266",
-
-            "Tested LED Matrix display functions",
-
-            "Tested the Flutter application on an Android device",
-
-            "Debugged hardware and software integration issues",
-
-            "Documented the complete design, implementation and testing process"
         ],
 
 
@@ -233,8 +192,6 @@ const projects = [
 
             "IoT System Development",
 
-            "Embedded Programming",
-
             "Mobile Application Development",
 
             "Hardware Integration",
@@ -255,11 +212,6 @@ const projects = [
 
             "Hardware Testing",
 
-            "Debugging",
-
-            "Problem Solving",
-
-            "Technical Documentation"
         ],
        
         /* =====================================================
@@ -280,11 +232,6 @@ const projects = [
 
             "LED Matrix 32x8",
 
-            "HTTP",
-
-            "WiFi",
-
-            "SPI"
         ],
 
 
@@ -437,35 +384,18 @@ const projects = [
 
     contributions: [
 
-        "Designed the main game screen",
+        "Designed the main game interface",
 
-        "Designed the overall layout of the main user interface",
-
-        "Designed the word display area",
-
-        "Designed the word input area",
-
-        "Designed correct and incorrect answer feedback components",
+        "Designed the overall UI layout and game components",
 
         "Tested and optimized the game interface",
 
         "Developed the chat functionality",
 
-        "Designed the network architecture",
+        "Designed and configured the network architecture",
 
-        "Configured network connections",
+        "Implemented multiplayer communication and player interaction",
 
-        "Designed the connection mechanism between two computers for multiplayer mode",
-
-        "Implemented interaction between two players",
-
-        "Contributed to multiplayer communication flow",
-
-        "Prepared presentation slides",
-
-        "Wrote the project report",
-
-        "Completed approximately 50% of the assigned project workload"
     ],
 
 
@@ -496,8 +426,6 @@ const projects = [
         "Implemented a new-game function",
 
         "Implemented an instruction screen",
-
-        "Completed the project report and presentation materials"
     ],
 
 
@@ -507,35 +435,17 @@ const projects = [
 
     features: [
 
-        "Single-player mode",
+        "Implemented single-player and two-player multiplayer modes",
 
-        "Two-player multiplayer mode",
+        "Implemented LAN-based client-server communication and game room management",
 
-        "LAN-based communication",
+        "Implemented real-time player interaction and chat functionality",
 
-        "Client-server communication",
+        "Implemented word guessing gameplay with time limits and scoring",
 
-        "Game room creation",
+        "Implemented game result handling and answer feedback",
 
-        "Join room using server IP",
-
-        "Player-to-player chat",
-
-        "Limited answer time",
-
-        "Word guessing gameplay",
-
-        "Score management",
-
-        "Correct answer notification",
-
-        "Incorrect answer notification",
-
-        "Win and loss handling",
-
-        "New game function",
-
-        "Instruction screen"
+        "Implemented new game and instruction functions"
     ],
 
 
@@ -561,15 +471,7 @@ const projects = [
 
         "User Interaction Design",
 
-        "Debugging",
-
         "Software Testing",
-
-        "Teamwork",
-
-        "Technical Documentation",
-
-        "Presentation"
     ],
 
 
@@ -578,30 +480,13 @@ const projects = [
     ===================================================== */
 
     knowledge: [
+        "Basic Network Programming and Client-Server Architecture",
 
-        "Basic Network Programming",
+        "LAN Networking and IP-based Connection Setup",
 
-        "Client-Server Architecture",
+        "Network Communication and Message Exchange",
 
-        "LAN Networking",
-
-        "Network Connection Setup",
-
-        "Packet Structure",
-
-        "Network Stack",
-
-        "Server-to-Client Communication",
-
-        "Client-to-Server Communication",
-
-        "Multiplayer Game Communication",
-
-        "IP-based Connection",
-
-        "Message Exchange",
-
-        "Game State Management"
+        "Multiplayer Game Communication and State Management"
     ],
 
 
@@ -763,45 +648,19 @@ const projects = [
 
     contributions: [
 
-        "Participated in designing the overall server architecture",
+        "Participated in designing the server architecture and virtual machine environment",
 
-        "Participated in configuring virtual machines using Bridged Adapter networking",
+        "Participated in deploying and configuring Ubuntu Linux servers and Apache Web Server",
 
-        "Participated in deploying Ubuntu Linux server environments",
+        "Configured PHP and Apache VirtualHost for multiple web applications",
 
-        "Participated in installing and configuring Apache Web Server",
+        "Deployed and configured BIND9 DNS Server and DNS zones",
 
-        "Participated in configuring PHP support on Apache",
+        "Installed and configured MySQL Server, databases, users and access privileges",
 
-        "Participated in configuring Apache VirtualHost for multiple websites",
+        "Configured PHP applications to connect to the remote MySQL Server",
 
-        "Participated in deploying two independent web applications on the Web Server",
-
-        "Participated in configuring internal DNS priority on Linux clients",
-
-        "Participated in installing and configuring BIND9 DNS Server",
-
-        "Participated in creating DNS zones for site1.test and site2.test",
-
-        "Participated in configuring authoritative DNS records",
-
-        "Participated in testing BIND9 zone configuration",
-
-        "Participated in installing and configuring MySQL Server",
-
-        "Participated in configuring MySQL for remote connections",
-
-        "Participated in creating separate databases for the two websites",
-
-        "Participated in creating database users and assigning database privileges",
-
-        "Participated in configuring PHP applications to connect to the remote MySQL server",
-
-        "Participated in importing sample SQL data",
-
-        "Participated in testing communication between Web Server, DNS Server and Database Server",
-
-        "Participated in documenting the system deployment and configuration process"
+        "Tested communication between Web, DNS and Database Servers",
     ],
 
 
@@ -810,38 +669,19 @@ const projects = [
     ===================================================== */
 
     results: [
+        "Deployed and configured Apache Web Server with multiple web applications",
 
-        "Successfully deployed an Apache Web Server on Ubuntu Linux",
+        "Configured VirtualHost and internal BIND9 DNS for multiple domains",
 
-        "Successfully hosted two independent web applications on the same Apache server",
+        "Configured DNS zones and records for internal domain resolution",
 
-        "Successfully configured VirtualHost for site1.test and site2.test",
+        "Deployed and configured a remote MySQL Database Server",
 
-        "Successfully deployed a separate BIND9 DNS Server",
+        "Configured databases, users, privileges and remote access",
 
-        "Successfully configured internal DNS resolution for both web applications",
+        "Integrated Web Server, DNS Server and Database Server",
 
-        "Successfully created DNS zone files for site1.test and site2.test",
-
-        "Successfully configured NS and A records for the internal domains",
-
-        "Successfully validated BIND9 configuration using named-checkzone and named-checkconf",
-
-        "Successfully deployed a separate MySQL Database Server",
-
-        "Successfully configured MySQL to accept remote network connections",
-
-        "Successfully created two independent databases: dtb1 and dtb2",
-
-        "Successfully created dedicated database users for each website",
-
-        "Successfully assigned database privileges to each website account",
-
-        "Successfully configured PHP applications to connect to the remote Database Server",
-
-        "Successfully prepared database import commands for both applications",
-
-        "Successfully integrated Web Server, DNS Server and Database Server into a multi-server network architecture",
+        "Configured PHP applications to connect to the remote Database Server",
 
         "Final project grade: 8.5/10"
     ],
@@ -853,35 +693,19 @@ const projects = [
 
     features: [
 
-        "Two web applications hosted on one Apache Web Server",
+        "Apache Web Server and VirtualHost Configuration",
 
-        "Separate domain name for each web application",
+        "Multi-domain Web Hosting and Internal DNS Resolution",
 
-        "Apache VirtualHost configuration",
+        "BIND9 DNS Server and Zone Management",
 
-        "Internal DNS resolution",
+        "MySQL Database Server and Remote Connectivity",
 
-        "Dedicated BIND9 DNS Server",
+        "Database and User Management for Multiple Websites",
 
-        "Dedicated MySQL Database Server",
+        "PHP-to-MySQL Integration",
 
-        "Separate database for each website",
-
-        "Separate database user for each website",
-
-        "Remote MySQL connections",
-
-        "PHP-to-MySQL database connectivity",
-
-        "DNS zone management",
-
-        "DNS configuration validation",
-
-        "LAN-based server communication",
-
-        "Multi-server network architecture",
-
-        "Virtual machine networking"
+        "LAN-based Multi-server Network Architecture",
     ],
 
 
@@ -890,38 +714,17 @@ const projects = [
     ===================================================== */
 
     skills: [
+        "Linux and Network Administration",
 
-        "Linux System Administration",
+        "Web, DNS and Database Server Administration",
 
-        "Network Administration",
+        "Server Deployment and Virtual Machine Configuration",
 
-        "Web Server Administration",
+        "Network and Service Configuration",
 
-        "DNS Server Administration",
+        "Command Line Administration and Troubleshooting",
 
-        "Database Server Administration",
-
-        "Server Deployment",
-
-        "Virtual Machine Configuration",
-
-        "Network Configuration",
-
-        "Service Integration",
-
-        "Command Line Administration",
-
-        "Database Configuration",
-
-        "Network Troubleshooting",
-
-        "System Testing",
-
-        "Problem Solving",
-
-        "Technical Documentation",
-
-        "Teamwork"
+        "Database Configuration and Service Integration"
     ],
 
 
@@ -933,49 +736,25 @@ const projects = [
 
         "Linux Server Administration",
 
-        "Client-Server Architecture",
+        "Client-Server and Multi-server Architecture",
 
-        "Web Server Architecture",
+        "Web Server and Apache VirtualHost Configuration",
 
-        "DNS Architecture",
+        "DNS Architecture, BIND9 and Domain Name Resolution",
 
-        "Database Server Architecture",
+        "DNS Zone and Record Management",
 
-        "Apache VirtualHost",
+        "HTTP and PHP Web Applications",
 
-        "Domain Name Resolution",
+        "MySQL Database and User Management",
 
-        "DNS Zones",
+        "Database Privileges and Remote Connectivity",
 
-        "DNS SOA Records",
+        "PHP-to-MySQL (PDO) Integration",
 
-        "DNS NS Records",
+        "LAN Networking and IP Addressing",
 
-        "DNS A Records",
-
-        "BIND9 Configuration",
-
-        "HTTP Protocol",
-
-        "PHP Web Applications",
-
-        "MySQL Database",
-
-        "Database User Management",
-
-        "Database Privileges",
-
-        "Remote Database Connection",
-
-        "PDO Database Connection",
-
-        "LAN Networking",
-
-        "IP Addressing",
-
-        "Bridged Adapter Networking",
-
-        "Multi-server Architecture"
+        "Virtual Machine and Bridged Adapter Networking"
     ],
 
 
@@ -992,16 +771,10 @@ const projects = [
         "PHP",
 
         "BIND9",
-
-        "DNS",
-
+        
         "MySQL",
 
         "PDO",
-
-        "HTTP",
-
-        "LAN",
 
         "IPv4"
     ],
@@ -1013,8 +786,6 @@ const projects = [
 
     tools: [
 
-        "Ubuntu Terminal",
-
         "Apache2",
 
         "BIND9",
@@ -1024,16 +795,6 @@ const projects = [
         "dnsutils",
 
         "MySQL Server",
-
-        "PHP",
-
-        "nano",
-
-        "systemctl",
-
-        "named-checkzone",
-
-        "named-checkconf"
     ],
 
 
@@ -1193,43 +954,17 @@ const projects = [
 
         "Participated in designing the overall IoT system architecture",
 
-        "Participated in integrating ESP8266 NodeMCU with the MAX7219 LED Matrix",
+        "Participated in integrating ESP8266 with MAX7219 LED Matrix",
 
-        "Participated in configuring WiFi connectivity on ESP8266",
-
-        "Participated in setting up a Web Server on ESP8266 using port 80",
-
-        "Participated in handling HTTP requests from the mobile application",
-
-        "Participated in parsing URL query parameters",
-
-        "Participated in implementing text processing for LED Matrix display",
-
-        "Participated in implementing scrolling text functionality",
-
-        "Participated in implementing adjustable scrolling speed",
-
-        "Participated in implementing adjustable LED brightness",
-
-        "Participated in implementing configurable text repetition loops",
-
-        "Participated in implementing Blink mode",
-
-        "Participated in implementing Stop display functionality",
+        "Participated in configuring WiFi, Web Server and HTTP communication",
 
         "Participated in developing the Flutter mobile control application",
 
-        "Participated in designing the Flutter user interface",
+        "Participated in implementing LED Matrix display control and effects",
 
-        "Participated in sending control parameters from Flutter to ESP8266 through HTTP",
+        "Participated in implementing communication between Flutter and ESP8266",
 
-        "Participated in testing communication between the mobile application and ESP8266",
-
-        "Participated in testing LED Matrix display behavior",
-
-        "Participated in debugging hardware, WiFi and HTTP communication issues",
-
-        "Participated in documenting the system design and implementation process"
+        "Participated in testing and debugging hardware and software integration",
     ],
 
 
@@ -1238,34 +973,17 @@ const projects = [
     ===================================================== */
 
     results: [
+        "Successfully developed an IoT-based LED Matrix control system",
 
-        "Successfully developed a complete IoT-based LED Matrix control system",
+        "Successfully configured ESP8266 WiFi, Web Server and HTTP communication",
 
-        "Successfully connected ESP8266 NodeMCU to WiFi",
+        "Successfully controlled a 32x8 MAX7219 LED Matrix",
 
-        "Successfully configured ESP8266 as a Web Server",
+        "Successfully implemented dynamic text display and scrolling effects",
 
-        "Successfully received HTTP requests from the Flutter application",
+        "Successfully implemented speed, brightness, loop, Blink and Stop controls",
 
-        "Successfully controlled a 32x8 MAX7219 LED Matrix through ESP8266",
-
-        "Successfully displayed scrolling text from right to left",
-
-        "Successfully implemented dynamic text input from the mobile application",
-
-        "Successfully implemented adjustable scrolling speed",
-
-        "Successfully implemented LED brightness control from 0 to 15",
-
-        "Successfully implemented configurable text repetition loops",
-
-        "Successfully implemented Blink mode",
-
-        "Successfully implemented Stop display functionality",
-
-        "Successfully tested different text lengths",
-
-        "Successfully tested Blink, Stop and Loop functions",
+        "Successfully tested system functionality and stability",
 
         "System operated stably within the local WiFi network",
 
@@ -1279,35 +997,21 @@ const projects = [
 
     features: [
 
-        "Remote text control through Flutter mobile application",
+        "Flutter-based remote text control",
 
-        "WiFi-based communication",
+        "WiFi and HTTP client-server communication",
 
-        "ESP8266 Web Server",
+        "ESP8266 Web Server and URL parameter processing",
 
-        "HTTP GET communication",
+        "Real-time 32x8 LED Matrix control",
 
-        "Scrolling text display",
+        "Dynamic text display and scrolling effects",
 
-        "Dynamic text input",
+        "Adjustable speed, brightness and repetition loops",
 
-        "Adjustable scrolling speed",
+        "Blink and Stop display functions",
 
-        "Adjustable LED brightness",
-
-        "Configurable repetition loops",
-
-        "Blink mode",
-
-        "Stop display command",
-
-        "URL parameter processing",
-
-        "Custom 8x8 bitmap font",
-
-        "Real-time LED Matrix control",
-
-        "Client-server communication"
+        "Custom 8x8 bitmap font"
     ],
 
 
@@ -1317,37 +1021,17 @@ const projects = [
 
     skills: [
 
-        "Embedded Programming",
+        "Embedded and IoT System Development",
 
-        "IoT System Development",
+        "Mobile Application and Flutter UI Development",
 
-        "Mobile Application Development",
+        "Hardware and System Integration",
 
-        "Hardware Integration",
+        "Wireless and Network Communication",
 
-        "Wireless Communication",
+        "HTTP and Client-Server Communication",
 
-        "HTTP Communication",
-
-        "Client-Server Communication",
-
-        "Network Programming",
-
-        "Flutter UI Development",
-
-        "System Integration",
-
-        "Software Testing",
-
-        "Hardware Testing",
-
-        "Debugging",
-
-        "Problem Solving",
-
-        "Technical Documentation",
-
-        "Teamwork"
+        "Software and Hardware Testing"
     ],
 
 
@@ -1357,43 +1041,17 @@ const projects = [
 
     knowledge: [
 
-        "Embedded Systems",
+        "Embedded and IoT System Development",
 
-        "Internet of Things (IoT)",
+        "Mobile Application and Flutter UI Development",
 
-        "Wireless Networking",
+        "Hardware and System Integration",
 
-        "ESP8266 NodeMCU",
+        "Wireless and Network Communication",
 
-        "LED Matrix",
+        "HTTP and Client-Server Communication",
 
-        "MAX7219",
-
-        "SPI Communication",
-
-        "WiFi Communication",
-
-        "HTTP Protocol",
-
-        "HTTP GET Requests",
-
-        "Client-Server Architecture",
-
-        "Web Server",
-
-        "URL Query Parameters",
-
-        "Bitmap Font Rendering",
-
-        "Pixel-based Display Control",
-
-        "Mobile Application Architecture",
-
-        "Flutter Widget-based UI",
-
-        "Asynchronous HTTP Communication",
-
-        "IoT System Testing"
+        "Software and Hardware Testing"
     ],
 
 
@@ -1414,14 +1072,6 @@ const projects = [
         "MAX7219",
 
         "LED Matrix 32x8",
-
-        "WiFi",
-
-        "HTTP",
-
-        "SPI",
-
-        "C/C++"
     ],
 
 
@@ -1638,41 +1288,21 @@ const projects = [
 
     contributions: [
 
-        "Participated in researching Federated Learning concepts and architecture",
+        "Participated in researching and designing the Federated Learning architecture",
 
-        "Participated in designing the distributed client-server training architecture",
+        "Participated in deploying and configuring FedML nodes on Microsoft Azure",
 
-        "Participated in deploying FedML nodes on Microsoft Azure virtual machines",
+        "Participated in configuring distributed training and gRPC communication",
 
-        "Participated in configuring Ubuntu environments for distributed training",
+        "Participated in implementing Cross-Silo Federated Learning with FedAvg",
 
-        "Participated in installing and configuring the FedML framework",
+        "Participated in preparing and partitioning the MNIST dataset",
 
-        "Participated in configuring gRPC communication between server and client nodes",
+        "Participated in configuring and running Logistic Regression and CNN experiments",
 
-        "Participated in configuring horizontal cross-silo Federated Learning",
+        "Participated in monitoring and evaluating training performance using Weights & Biases",
 
-        "Participated in configuring the FedAvg aggregation algorithm",
-
-        "Participated in preparing MNIST as the experimental dataset",
-
-        "Participated in configuring distributed data partitioning",
-
-        "Participated in configuring learning rate, batch size, epochs and communication rounds",
-
-        "Participated in deploying Logistic Regression experiments with 1 server and 2 clients",
-
-        "Participated in deploying CNN experiments with 1 server and 4 clients",
-
-        "Participated in monitoring training metrics using Weights & Biases",
-
-        "Participated in comparing Test Accuracy and Test Loss across multiple experimental runs",
-
-        "Participated in evaluating training convergence and execution time",
-
-        "Participated in troubleshooting FedML and cloud deployment issues",
-
-        "Participated in documenting system architecture, experimental setup and results"
+        "Participated in troubleshooting cloud and FedML deployment issues",
     ],
 
 
@@ -1682,37 +1312,15 @@ const projects = [
 
     results: [
 
-        "Successfully built a practical Federated Learning system using FedML",
+        "Successfully built and deployed a practical Federated Learning system using FedML on Microsoft Azure",
 
-        "Successfully deployed independent server and client nodes on Microsoft Azure virtual machines",
+        "Successfully implemented distributed client-server training with FedAvg and gRPC",
 
-        "Successfully implemented distributed client-server training",
+        "Successfully maintained local data privacy by exchanging model parameters instead of raw data",
 
-        "Successfully preserved local data privacy by exchanging only model parameters",
+        "Successfully conducted Logistic Regression and CNN training experiments on MNIST",
 
-        "Successfully configured FedAvg as the model aggregation algorithm",
-
-        "Successfully configured gRPC as the communication backend",
-
-        "Successfully trained Logistic Regression on MNIST with 1 server and 2 clients",
-
-        "Successfully trained CNN on MNIST with 1 server and 4 clients",
-
-        "Logistic Regression achieved Test Accuracy between 0.7953 and 0.8173",
-
-        "Best Logistic Regression result reached Test Accuracy of 0.8173",
-
-        "Best Logistic Regression configuration achieved 0.8173 accuracy in approximately 17.36 seconds",
-
-        "CNN achieved Test Accuracy between 0.6748 and 0.7182",
-
-        "Best CNN result reached Test Accuracy of 0.7182",
-
-        "Best CNN run required approximately 197.11 seconds",
-
-        "Successfully monitored Test Accuracy and Test Loss using WandB",
-
-        "Demonstrated good scalability through cloud-based distributed nodes",
+        "Successfully monitored and evaluated model performance using Weights & Biases",
 
         "Final project grade: 9.5/10"
     ],
@@ -1724,39 +1332,21 @@ const projects = [
 
     features: [
 
-        "Federated Learning architecture",
+        "Federated Learning and Distributed Client-Server Architecture",
 
-        "Distributed client-server training",
+        "Cross-Silo and Horizontal Federated Learning",
 
-        "Cross-silo Federated Learning",
+        "Local Model Training and Global Model Aggregation",
 
-        "Horizontal Federated Learning",
+        "FedAvg and gRPC Communication",
 
-        "Local model training",
+        "Distributed Training on Azure Virtual Machines",
 
-        "Global model aggregation",
+        "Privacy-Preserving Machine Learning",
 
-        "FedAvg aggregation algorithm",
+        "MNIST Model Training with Logistic Regression and CNN",
 
-        "gRPC communication",
-
-        "Multiple distributed clients",
-
-        "Independent Azure virtual machines",
-
-        "Privacy-preserving training",
-
-        "MNIST dataset training",
-
-        "Logistic Regression experiments",
-
-        "CNN experiments",
-
-        "Real-time experiment monitoring",
-
-        "Accuracy and loss visualization",
-
-        "Hyperparameter experimentation"
+        "Experiment Monitoring and Performance Visualization",
     ],
 
 
@@ -1766,41 +1356,19 @@ const projects = [
 
     skills: [
 
-        "Distributed Computing",
+        "Distributed Computing and Federated Learning",
 
-        "Federated Learning",
+        "Machine Learning and Deep Learning",
 
-        "Machine Learning",
+        "Cloud Computing and Azure Virtual Machine Deployment",
 
-        "Deep Learning",
+        "Distributed System and Client-Server Architecture",
 
-        "Cloud Computing",
+        "Model Training and Hyperparameter Tuning",
 
-        "Azure Virtual Machine Deployment",
+        "Experiment Tracking and Performance Evaluation",
 
-        "Distributed System Design",
-
-        "Client-Server Architecture",
-
-        "Model Training",
-
-        "Hyperparameter Tuning",
-
-        "Experiment Tracking",
-
-        "Performance Evaluation",
-
-        "Data Analysis",
-
-        "Troubleshooting",
-
-        "Linux Administration",
-
-        "Technical Documentation",
-
-        "Teamwork",
-
-        "Problem Solving"
+        "Data Analysis and Troubleshooting",
     ],
 
 
@@ -1810,53 +1378,27 @@ const projects = [
 
     knowledge: [
 
-        "Federated Learning",
+        "Federated and Distributed Machine Learning",
 
-        "Distributed Machine Learning",
+        "Cross-Silo and Horizontal Federated Learning",
 
-        "Cross-silo Federated Learning",
+        "Client-Server Architecture and Distributed Training",
 
-        "Horizontal Federated Learning",
+        "Local Training and Global Model Aggregation",
 
-        "Client-Server Architecture",
-
-        "Local Training",
-
-        "Global Model",
-
-        "Model Parameter Aggregation",
-
-        "Federated Averaging (FedAvg)",
-
-        "gRPC Communication",
-
-        "Distributed Training Rounds",
-
-        "Communication Rounds",
+        "FedAvg and gRPC Communication",
 
         "Machine Learning Model Convergence",
 
-        "Logistic Regression",
+        "Logistic Regression and Convolutional Neural Networks",
 
-        "Convolutional Neural Network",
+        "MNIST Dataset and Non-IID Data Partitioning",
 
-        "MNIST Dataset",
+        "Hyperparameter Configuration and Experimentation",
 
-        "Non-IID Data Partitioning",
+        "Model Performance Evaluation",
 
-        "Learning Rate",
-
-        "Batch Size",
-
-        "Epochs",
-
-        "Test Accuracy",
-
-        "Test Loss",
-
-        "Cloud Infrastructure",
-
-        "Virtual Machines",
+        "Cloud Infrastructure and Virtual Machines",
 
         "MLOps Monitoring"
     ],
@@ -1910,15 +1452,9 @@ const projects = [
 
         "Python",
 
-        "pip",
-
         "Ubuntu Terminal",
 
         "Bash",
-
-        "fedml_config.yaml",
-
-        "grpc_ipconfig.csv"
     ],
 
 
@@ -2119,47 +1655,21 @@ const projects = [
 
     contributions: [
 
-        "Participated in designing the Wi-Fi performance testing architecture",
+        "Participated in designing and configuring the Wi-Fi performance testing environment",
 
-        "Participated in configuring the Server and Client test environment",
+        "Participated in conducting TCP, UDP, latency, jitter and packet loss tests using iPerf3",
 
-        "Participated in configuring the Access Point-based test network",
+        "Participated in evaluating Wi-Fi performance across different distances and frequency bands",
 
-        "Participated in installing and configuring iPerf3",
-
-        "Participated in configuring iPerf3 Server and Client modes",
-
-        "Participated in measuring TCP throughput",
-
-        "Participated in measuring UDP performance",
-
-        "Participated in testing network performance at different distances from the Access Point",
-
-        "Participated in comparing Wi-Fi performance between 2.4 GHz and 5 GHz",
-
-        "Participated in measuring latency, jitter and packet loss",
-
-        "Participated in analyzing Wi-Fi channel interference using inSSIDer",
+        "Participated in analyzing Wi-Fi interference and network packets using inSSIDer and Wireshark",
 
         "Participated in measuring Internet performance using Speedtest",
 
-        "Participated in capturing and analyzing network packets using Wireshark",
+        "Participated in configuring PRTG and SNMP for network monitoring",
 
-        "Participated in analyzing TCP retransmissions and lost segments",
+        "Participated in monitoring system resources and network traffic",
 
-        "Participated in configuring PRTG Network Monitor",
-
-        "Participated in configuring SNMP monitoring sensors",
-
-        "Participated in monitoring CPU, RAM, uptime and network traffic",
-
-        "Participated in creating PRTG warning thresholds for congestion detection",
-
-        "Participated in generating network traffic to simulate congestion",
-
-        "Participated in analyzing performance changes during baseline, high-load and recovery periods",
-
-        "Participated in documenting experimental procedures and results"
+        "Participated in simulating network congestion and analyzing performance during different load conditions",
     ],
 
 
@@ -2169,51 +1679,21 @@ const projects = [
 
     results: [
 
-        "Successfully deployed a Wi-Fi performance testing environment with Server, Client and Access Point",
+        "Successfully deployed a Wi-Fi performance testing environment",
 
-        "Successfully measured throughput, latency, jitter and packet loss using multiple tools",
+        "Successfully measured and analyzed throughput, latency, jitter and packet loss",
 
-        "Initial Speedtest measured approximately 218.11 Mbps download and 361.09 Mbps upload",
+        "Successfully evaluated Wi-Fi performance across different distances and frequency bands",
 
-        "Initial packet loss was measured at 0.0%",
+        "Confirmed the impact of signal strength and interference on Wi-Fi performance",
 
-        "Initial latency was approximately 26.84 ms",
+        "Successfully analyzed network traffic and retransmissions using Wireshark",
 
-        "Observed that throughput decreased as the Client moved farther away from the Access Point",
+        "Successfully configured PRTG and SNMP for real-time network monitoring",
 
-        "iPerf3 throughput decreased from approximately 48.8 Mbps near the Access Point to approximately 31.6 Mbps at the farthest tested position",
+        "Successfully simulated and monitored network congestion",
 
-        "Confirmed that client position and signal strength significantly affect Wi-Fi throughput",
-
-        "Confirmed that 5 GHz achieved better real-world performance than 2.4 GHz",
-
-        "5 GHz showed higher throughput, lower interference and lower jitter than 2.4 GHz",
-
-        "Observed significant channel overlap and interference on the 2.4 GHz band",
-
-        "Observed cleaner channels and lower interference on the 5 GHz band",
-
-        "Measured approximately 90.8 Mbps TCP upload throughput on 5 GHz",
-
-        "Measured approximately 35.9 Mbps TCP upload throughput on 2.4 GHz",
-
-        "Observed average throughput of approximately 25–30 Mbps during the 15-minute monitoring scenario",
-
-        "Server retransmission rate remained below approximately 0.5% during normal monitoring",
-
-        "Speedtest during monitoring showed latency of approximately 14.08 ms and 0% packet loss",
-
-        "PRTG successfully monitored device uptime, ping latency, CPU load, Wi-Fi traffic and physical memory",
-
-        "Successfully simulated temporary network congestion under high traffic load",
-
-        "PRTG successfully detected increased latency during congestion",
-
-        "PRTG generated warning conditions when latency exceeded configured thresholds",
-
-        "Wireshark confirmed increased RTT and retransmissions during congestion",
-
-        "Network performance recovered after high-load traffic ended",
+        "Successfully analyzed network performance during baseline, high-load and recovery periods",
 
         "Final project grade: 8.0/10"
     ],
@@ -2225,45 +1705,25 @@ const projects = [
 
     features: [
 
-        "Wi-Fi performance monitoring",
+        "Wi-Fi Performance and Throughput Testing",
 
-        "TCP throughput testing",
+        "Latency, Jitter and Packet Loss Analysis",
 
-        "UDP performance testing",
+        "TCP Retransmission and Network Traffic Analysis",
 
-        "Latency measurement",
+        "Wi-Fi Signal Strength and Channel Interference Analysis",
 
-        "Jitter measurement",
+        "2.4 GHz and 5 GHz Performance Comparison",
 
-        "Packet loss measurement",
+        "Distance-based and Long-duration Performance Testing",
 
-        "TCP retransmission analysis",
+        "Network Congestion Simulation and Detection",
 
-        "Wi-Fi signal strength analysis",
+        "PRTG and SNMP Network Monitoring",
 
-        "Channel interference analysis",
+        "System Resource and Network Traffic Monitoring",
 
-        "2.4 GHz and 5 GHz comparison",
-
-        "Distance-based performance testing",
-
-        "Long-duration traffic monitoring",
-
-        "Congestion simulation",
-
-        "Congestion detection",
-
-        "PRTG threshold alerts",
-
-        "SNMP monitoring",
-
-        "CPU monitoring",
-
-        "RAM monitoring",
-
-        "Network traffic monitoring",
-
-        "Packet capture and analysis"
+        "Packet Capture and Analysis"
     ],
 
 
@@ -2273,37 +1733,19 @@ const projects = [
 
     skills: [
 
-        "Network Performance Analysis",
+        "Network Performance Analysis and Wi-Fi Testing",
 
-        "Wi-Fi Performance Testing",
+        "Network Monitoring and Traffic Analysis",
 
-        "Network Monitoring",
+        "TCP/IP and Packet Analysis",
 
-        "Packet Analysis",
+        "Network Troubleshooting and Congestion Analysis",
 
-        "Network Troubleshooting",
+        "Performance Benchmarking and QoS Evaluation",
 
-        "Traffic Analysis",
+        "Experimental Design and Data Analysis",
 
-        "TCP/IP Analysis",
-
-        "Performance Benchmarking",
-
-        "Network Congestion Analysis",
-
-        "QoS Evaluation",
-
-        "Experimental Design",
-
-        "Data Analysis",
-
-        "Network Tool Configuration",
-
-        "Technical Documentation",
-
-        "Teamwork",
-
-        "Problem Solving"
+        "Network Tool Configuration"
     ],
 
 
@@ -2313,55 +1755,25 @@ const projects = [
 
     knowledge: [
 
-        "Wireless Networking",
+        "Wireless Networking and Wi-Fi Performance",
 
-        "Wi-Fi Performance",
+        "2.4 GHz and 5 GHz Wi-Fi Technologies",
 
-        "2.4 GHz Wi-Fi",
+        "Access Point and Client-Server Architecture",
 
-        "5 GHz Wi-Fi",
+        "TCP/IP and UDP Networking",
 
-        "Access Point Architecture",
+        "Throughput, Bandwidth, Latency and Jitter Analysis",
 
-        "Client-Server Architecture",
+        "Packet Loss and TCP Retransmission Analysis",
 
-        "TCP Protocol",
+        "RSSI, Signal Strength and SNR Analysis",
 
-        "UDP Protocol",
+        "Channel Utilization and Interference Analysis",
 
-        "Throughput",
+        "Network Congestion and QoS Evaluation",
 
-        "Bandwidth",
-
-        "Latency",
-
-        "Round Trip Time",
-
-        "Jitter",
-
-        "Packet Loss",
-
-        "TCP Retransmission",
-
-        "RSSI",
-
-        "Signal Strength",
-
-        "SNR",
-
-        "Channel Utilization",
-
-        "Channel Interference",
-
-        "Network Congestion",
-
-        "Quality of Service",
-
-        "SNMP Monitoring",
-
-        "ICMP Ping",
-
-        "Network Performance Monitoring"
+        "SNMP and ICMP Network Monitoring"
     ],
 
 
@@ -2373,21 +1785,9 @@ const projects = [
 
         "Wi-Fi",
 
-        "TCP/IP",
+        "TCP, UDP, ICMP, SNMP",
 
-        "TCP",
-
-        "UDP",
-
-        "SNMP",
-
-        "ICMP",
-
-        "2.4 GHz",
-
-        "5 GHz",
-
-        "Windows Networking"
+        "2.4 GHz and 5 GHz",
     ],
 
 
@@ -2410,10 +1810,6 @@ const projects = [
         "Command Prompt",
 
         "PowerShell",
-
-        "Windows Firewall",
-
-        "SNMP"
     ],
 
 
@@ -2607,51 +2003,25 @@ const projects = [
 
     contributions: [
 
-        "Participated in analyzing requirements for an online bookstore application",
+       "Participated in analyzing requirements and designing the online bookstore system",
 
-        "Participated in researching existing e-commerce platforms such as Tiki and Fahasa",
+        "Participated in designing Use Case, ERD, relational data model and Activity Diagrams",
 
-        "Participated in defining functional and non-functional requirements",
+        "Participated in designing and implementing the Android application using Java and Android Studio",
 
-        "Participated in designing the system Use Case Diagram",
+        "Participated in integrating application logic with SQLite database",
 
-        "Participated in designing the Entity Relationship Diagram",
+        "Participated in implementing authentication, product browsing, search, filtering and sorting",
 
-        "Participated in designing the Relational Data Model",
+        "Participated in implementing shopping cart, checkout, vouchers, reviews and order management",
 
-        "Participated in designing Activity Diagrams for major business processes",
-
-        "Participated in designing the Android application UI/UX",
-
-        "Participated in implementing Android interfaces using Android Studio",
-
-        "Participated in developing application logic using Java",
-
-        "Participated in connecting application screens with SQLite database operations",
-
-        "Participated in implementing user authentication functions",
-
-        "Participated in implementing product browsing and searching",
-
-        "Participated in implementing filtering and sorting functions",
-
-        "Participated in implementing shopping cart operations",
-
-        "Participated in implementing checkout and order creation",
-
-        "Participated in implementing voucher functionality",
-
-        "Participated in implementing product review functionality",
-
-        "Participated in implementing order status management",
-
-        "Participated in implementing administrative management interfaces",
+        "Participated in developing administrative management interfaces",
 
         "Participated in testing the application using Android Emulator and Genymotion",
 
-        "Participated in managing source code through Git and GitHub",
+        "Participated in managing source code using Git and GitHub",
 
-        "Participated in documenting system analysis, design and implementation"
+        "Participated in documenting the system analysis, design and implementation"
     ],
 
 
@@ -2661,63 +2031,21 @@ const projects = [
 
     results: [
 
-        "Completed 100% of system analysis and design",
+        "Completed 100% of system analysis, design and frontend development",
 
-        "Completed 100% of frontend interface development",
+        "Developed an Android-based online bookstore application using Java",
 
-        "Completed application backend logic processing",
+        "Implemented user authentication and account management",
 
-        "Successfully developed an Android-based online bookstore application",
+        "Implemented product browsing, searching, filtering and reviews",
 
-        "Implemented account registration and login",
+        "Implemented shopping cart, checkout, shipping address and voucher functions",
 
-        "Implemented password reset interface",
+        "Implemented order creation, tracking, cancellation and status management",
 
-        "Implemented book catalog browsing",
+        "Implemented administrative management for products, customers, employees and promotions",
 
-        "Implemented book search functionality",
-
-        "Implemented book filtering by price and category",
-
-        "Implemented product detail pages",
-
-        "Implemented product rating and review features",
-
-        "Implemented shopping cart management",
-
-        "Implemented product quantity modification in cart",
-
-        "Implemented product removal from cart",
-
-        "Implemented direct purchase and cart-based purchase flows",
-
-        "Implemented checkout workflow",
-
-        "Implemented shipping address management",
-
-        "Implemented voucher selection and application",
-
-        "Implemented order creation and order confirmation",
-
-        "Implemented customer order tracking",
-
-        "Implemented order cancellation",
-
-        "Implemented multiple order states including pending, confirmed, delivering, completed, failed and cancelled",
-
-        "Implemented admin product management",
-
-        "Implemented customer management",
-
-        "Implemented employee management",
-
-        "Implemented voucher and promotion management",
-
-        "Implemented administrative reports and statistics",
-
-        "Implemented sales staff order management",
-
-        "Implemented delivery staff order status management",
+        "Implemented sales and delivery staff order management",
 
         "Final project grade: 9.5/10"
     ],
@@ -2729,63 +2057,25 @@ const projects = [
 
     features: [
 
-        "User registration",
+        "User Authentication and Profile Management",
 
-        "User login",
+        "Book Catalog, Search, Filtering and Sorting",
 
-        "Password reset",
+        "Product Details, Ratings and Reviews",
 
-        "Personal profile management",
+        "Shopping Cart and Purchase Management",
 
-        "Book catalog",
+        "Checkout, Shipping Address and Voucher Management",
 
-        "Product detail view",
+        "Order Creation, Tracking, Cancellation and Processing",
 
-        "Book search",
+        "Admin Product, Customer and Employee Management",
 
-        "Book filtering",
+        "Promotion and Voucher Management",
 
-        "Book sorting",
+        "Sales and Delivery Order Management",
 
-        "Product ratings",
-
-        "Product reviews",
-
-        "Shopping cart",
-
-        "Add to cart",
-
-        "Update cart quantity",
-
-        "Remove from cart",
-
-        "Direct purchase",
-
-        "Checkout",
-
-        "Shipping address selection",
-
-        "Voucher application",
-
-        "Order creation",
-
-        "Order tracking",
-
-        "Order cancellation",
-
-        "Sales staff order confirmation",
-
-        "Delivery staff order processing",
-
-        "Admin product management",
-
-        "Admin customer management",
-
-        "Admin employee management",
-
-        "Promotion and voucher management",
-
-        "Business reports and statistics"
+        "Business Reports and Statistics"
     ],
 
 
@@ -2844,12 +2134,6 @@ const projects = [
         "Version Control",
 
         "Git Collaboration",
-
-        "Teamwork",
-
-        "Problem Solving",
-
-        "Technical Documentation"
     ],
 
 
@@ -3166,57 +2450,23 @@ const projects = [
 
     contributions: [
 
-        "Deployed the IoT system backend on Amazon AWS EC2",
+        "Amazon EC2 and Ubuntu Cloud Deployment",
 
-        "Configured the Ubuntu-based EC2 cloud environment",
+        "FastAPI Backend and REST API Development",
 
-        "Configured and deployed the FastAPI AI Server",
+        "MQTT Communication and Mosquitto Broker",
 
-        "Configured Mosquitto MQTT Broker",
+        "ESP32-CAM Data and Image Processing",
 
-        "Configured MQTT communication between Cloud and IoT devices",
+        "Amazon S3 Storage Integration",
 
-        "Developed APIs for receiving data from ESP32-CAM",
+        "Amazon DynamoDB Data and Event Management",
 
-        "Developed image upload API endpoints",
+        "Real-time Monitoring Dashboard Development",
 
-        "Supported audio upload API processing",
+        "Cloud-based IoT System Integration",
 
-        "Handled HTTP requests from ESP32-CAM",
-
-        "Implemented backend data processing flow for edge device requests",
-
-        "Integrated Amazon S3 with the backend system",
-
-        "Configured S3 storage for captured images",
-
-        "Configured S3 storage for processed YOLO images",
-
-        "Supported storage of audio files for verification",
-
-        "Generated data URLs for monitoring and review",
-
-        "Integrated Amazon DynamoDB with the backend system",
-
-        "Stored detection timestamps and event metadata in DynamoDB",
-
-        "Stored YOLO detection status",
-
-        "Stored traffic light state and system event logs",
-
-        "Designed the real-time monitoring dashboard",
-
-        "Developed dashboard integration with FastAPI APIs",
-
-        "Displayed server and system status",
-
-        "Displayed ambulance detection history",
-
-        "Displayed saved image and audio records",
-
-        "Supported manual override functionality for system testing",
-
-        "Integrated Cloud backend with MQTT-based traffic light control"
+        "Traffic Light Control and Manual Override"
     ],
 
 
@@ -3228,51 +2478,21 @@ const projects = [
 
         "Successfully developed a working prototype for emergency vehicle traffic light priority",
 
-        "Successfully implemented Hybrid Edge-Cloud architecture",
+        "Successfully implemented Hybrid Edge-Cloud architecture with real-time Edge-Cloud communication",
 
-        "Successfully captured traffic images using ESP32-CAM",
+        "Successfully integrated multimodal emergency detection using YOLOv8 for ambulance detection and YAMNet for siren detection",
 
-        "Successfully captured environmental audio using INMP441 microphone",
+        "Successfully implemented two-step image and audio verification to reduce false emergency activation",
 
-        "Successfully deployed FastAPI AI Server on AWS EC2",
+        "Successfully implemented MQTT-based automated traffic light priority control",
 
-        "Successfully implemented real-time communication between Edge devices and Cloud",
+        "Successfully deployed AI processing, data storage, and real-time monitoring on AWS Cloud",
 
-        "Successfully integrated YOLOv8 ambulance detection",
+        "Successfully tested normal, false-candidate, and confirmed emergency scenarios",
 
-        "Successfully integrated YAMNet emergency siren detection",
+        "System successfully activated priority mode for confirmed emergencies and automatically returned to normal operation",
 
-        "Successfully implemented multimodal image and audio validation",
-
-        "Successfully implemented two-step emergency verification to reduce false activation",
-
-        "Successfully implemented MQTT-based traffic light control",
-
-        "Successfully controlled simulated traffic lights using ESP8266",
-
-        "Successfully stored images and audio on Amazon S3",
-
-        "Successfully stored event metadata and detection history in Amazon DynamoDB",
-
-        "Successfully developed a real-time monitoring dashboard",
-
-        "Successfully tested scenarios with no ambulance",
-
-        "Successfully tested false-candidate scenarios where image detection succeeded but siren verification failed",
-
-        "Successfully tested confirmed emergency scenarios",
-
-        "Traffic lights successfully switched to priority mode after final emergency verification",
-
-        "System automatically returned to normal traffic light operation after priority mode",
-
-        "YOLOv8 model achieved mAP@0.5 of approximately 0.962",
-
-        "YOLOv8 achieved a maximum F1-Score of approximately 0.96 at confidence threshold 0.557",
-
-        "Precision reached approximately 1.00 at high confidence levels",
-
-        "Recall reached approximately 0.97 at low confidence thresholds",
+        "YOLOv8 achieved mAP@0.5 of approximately 0.962 and maximum F1-Score of approximately 0.96",
 
         "Final project grade: 9.5/10"
     ],
@@ -3284,45 +2504,25 @@ const projects = [
 
     features: [
 
-        "Real-time ambulance detection",
+        "Real-time multimodal ambulance and emergency siren detection",
 
-        "Emergency siren recognition",
+        "Two-step AI-based emergency verification",
 
-        "Multimodal AI validation",
+        "ESP32-CAM image capture and INMP441 audio verification",
 
-        "Two-step emergency verification",
+        "HTTP REST API and multipart media communication",
 
-        "Periodic ESP32-CAM image capture",
+        "MQTT-based automated traffic light control",
 
-        "Audio verification using INMP441",
+        "Automatic emergency priority mode and return to normal traffic cycle",
 
-        "HTTP REST API communication",
+        "Cloud-based AI inference and event-driven backend processing",
 
-        "Multipart image and audio upload",
+        "Amazon S3 media storage and DynamoDB event logging",
 
-        "MQTT-based traffic light control",
+        "Real-time monitoring dashboard with detection history and media playback",
 
-        "Automatic emergency priority mode",
-
-        "Automatic return to normal traffic cycle",
-
-        "Traffic light finite-state machine",
-
-        "Cloud-based AI inference",
-
-        "Event-driven backend processing",
-
-        "Amazon S3 media storage",
-
-        "Amazon DynamoDB event logging",
-
-        "Real-time monitoring dashboard",
-
-        "Manual system override",
-
-        "Detection history",
-
-        "Image and audio playback"
+        "Manual system override"
     ],
 
 
@@ -3419,14 +2619,6 @@ const projects = [
         "Network Programming",
 
         "IoT Testing",
-
-        "Debugging",
-
-        "Problem Solving",
-
-        "Teamwork",
-
-        "Technical Documentation"
     ],
 
 
@@ -3634,37 +2826,23 @@ const projects = [
 
     workflow: [
 
-        "ESP32-CAM captures one traffic image every second",
+       "ESP32-CAM periodically captures and uploads traffic images to the FastAPI server",
 
-        "Image is uploaded to FastAPI /upload endpoint",
+        "YOLOv8 detects ambulance candidates from captured traffic images",
 
-        "YOLOv8 detects ambulance candidates",
+        "If an ambulance candidate is detected, ESP32-CAM captures and uploads audio for verification",
 
-        "If no ambulance is detected, the traffic cycle remains normal",
+        "YAMNet analyzes the captured audio for emergency siren signals",
 
-        "If an ambulance candidate is detected, the server returns audio_capture",
+        "Image and audio results are combined through multimodal emergency validation",
 
-        "ESP32-CAM records approximately 5 seconds of audio using INMP441",
+        "If an emergency is confirmed, MQTT triggers emergency traffic light priority",
 
-        "Audio is sampled at 16 kHz and stored as WAV",
+        "ESP8266 activates priority mode and automatically returns to the normal traffic cycle afterward",
 
-        "Audio file is uploaded to FastAPI /audio endpoint",
+        "Images, audio, and event metadata are stored in Amazon S3 and DynamoDB",
 
-        "YAMNet analyzes the audio for emergency siren signals",
-
-        "Image and audio results are combined through multimodal validation",
-
-        "If final_detect is true, FastAPI publishes MQTT force_green",
-
-        "ESP8266 receives force_green and activates emergency traffic priority",
-
-        "Images and audio are stored in Amazon S3",
-
-        "Event metadata is stored in DynamoDB",
-
-        "Dashboard displays detection and traffic light status",
-
-        "After priority time expires, the system returns to normal operation"
+        "Dashboard provides real-time detection and traffic light status monitoring"
     ],
 
 
@@ -3864,63 +3042,25 @@ const projects = [
 
     contributions: [
 
-        "Participated in researching Reinforcement Learning applications for SDN security",
+        "Participated in researching Reinforcement Learning applications for automated SDN security",
 
-        "Participated in researching Software-Defined Networking architecture and security threats",
+        "Participated in designing the SDN defense architecture and modeling the security problem as a Markov Decision Process",
 
-        "Participated in designing the automated SDN defense architecture",
+        "Participated in designing network state, defensive action space, and multi-objective reward function",
 
-        "Participated in modeling the security problem as a Markov Decision Process",
+        "Participated in building the Mininet–ONOS SDN simulation environment and collecting network telemetry",
 
-        "Participated in designing the 9-dimensional network state vector",
+        "Participated in implementing multiple network attack scenarios including DDoS, Packet-In Flood, Flow Table Overflow, IP Spoofing, and Port Scanning",
 
-        "Participated in defining the defensive action space",
+        "Participated in implementing and training DQN- and PPO-based defense policies",
 
-        "Participated in designing the multi-objective reward function",
+        "Participated in designing multi-seed training, offline validation, and online validation",
 
-        "Participated in building the Mininet SDN simulation environment",
+        "Participated in comparing DQN, PPO, and Rule-based defense using reward, stability, and switching rate metrics",
 
-        "Participated in integrating Mininet with ONOS Controller",
+        "Participated in deploying and monitoring the system using Docker, K3s, Prometheus, Grafana, and MLflow",
 
-        "Participated in collecting network telemetry through ONOS APIs",
-
-        "Participated in configuring network attack scenarios",
-
-        "Participated in implementing DDoS attack scenarios",
-
-        "Participated in implementing Packet-In Flood scenarios",
-
-        "Participated in implementing Flow Table Overflow scenarios",
-
-        "Participated in implementing IP Spoofing scenarios",
-
-        "Participated in implementing Port Scanning scenarios",
-
-        "Participated in implementing DQN-based defense policies",
-
-        "Participated in implementing PPO-based defense policies",
-
-        "Participated in implementing Multi-Seed Training",
-
-        "Participated in designing Offline Validation",
-
-        "Participated in designing Online Validation",
-
-        "Participated in comparing DQN, PPO and Rule-based defense",
-
-        "Participated in evaluating Reward, Stability and Switching Rate",
-
-        "Participated in deploying components using Docker containerization",
-
-        "Participated in configuring K3s-based service orchestration",
-
-        "Participated in integrating Prometheus and Grafana for system monitoring",
-
-        "Participated in using MLflow for experiment tracking",
-
-        "Participated in analyzing experimental results",
-
-        "Participated in documenting the proposed architecture and evaluation"
+        "Participated in analyzing experimental results and documenting the proposed architecture and evaluation"
     ],
 
 
@@ -3930,59 +3070,25 @@ const projects = [
 
     results: [
 
-        "Successfully designed an automated SDN cyberattack mitigation system",
+        "Successfully designed and implemented an automated Reinforcement Learning-based SDN cyberattack mitigation system",
 
-        "Successfully implemented a closed-loop interaction between the RL Agent and SDN environment",
+        "Successfully built a closed-loop RL–SDN environment using Mininet and ONOS Controller",
 
-        "Successfully integrated the RL system with ONOS Controller",
+        "Successfully modeled SDN security as a Reinforcement Learning problem with network states, defensive actions, and reward mechanisms",
 
-        "Successfully built the SDN network environment using Mininet",
+        "Successfully implemented and trained DQN and PPO defense agents using Multi-Seed Training",
 
-        "Successfully modeled network security as a Reinforcement Learning problem",
+        "Successfully implemented Offline and Online Validation across normal traffic and multiple cyberattack scenarios",
 
-        "Successfully implemented a 9-dimensional state representation",
+        "Successfully evaluated DQN, PPO, and Rule-based defense in terms of reward, convergence, stability, and switching rate",
 
-        "Successfully implemented five defensive actions",
+        "PPO successfully converged to approximately +395 reward with high stability across all tested random seeds",
 
-        "Successfully implemented DQN and PPO agents",
+        "PPO significantly outperformed DQN, with a statistical T-test p-value of approximately 3.3 × 10^-11",
 
-        "Successfully performed Multi-Seed Training with 3 seeds for DQN and 5 seeds for PPO",
+        "PPO demonstrated performance comparable to Rule-based defense across tested attack scenarios",
 
-        "Successfully implemented Offline and Online Validation workflows",
-
-        "Successfully evaluated Normal, DDoS, Spoofing, Flow Table Overflow, Packet-In Flood and Port Scan scenarios",
-
-        "PPO reward began improving after approximately episode 200",
-
-        "PPO achieved positive reward at approximately episode 500",
-
-        "PPO converged to approximately +395 reward after episode 800",
-
-        "PPO reward standard deviation approached zero after convergence",
-
-        "PPO reached approximately +395 final reward across all tested random seeds",
-
-        "DQN remained around approximately -1450 reward during most of training",
-
-        "DQN did not demonstrate clear policy convergence",
-
-        "Statistical T-test produced p-value approximately 3.3 × 10^-11",
-
-        "The performance difference between PPO and DQN was statistically significant",
-
-        "DQN switching rate remained around approximately 0.08",
-
-        "PPO switching rate was approximately 0",
-
-        "Rule-based switching rate was approximately 0",
-
-        "PPO achieved approximately +395 reward in the Normal traffic scenario",
-
-        "PPO demonstrated significantly higher stability than DQN",
-
-        "PPO produced performance comparable to Rule-based defense in attack scenarios",
-
-        "The project demonstrated the potential of Reinforcement Learning for automated SDN security",
+        "The project demonstrated the potential of Reinforcement Learning for automated SDN cyberattack mitigation",
 
         "Final project grade: 9.0/10"
     ],
@@ -3994,53 +3100,23 @@ const projects = [
 
     features: [
 
-        "Automated SDN attack mitigation",
+        "Automated SDN attack mitigation with closed-loop Reinforcement Learning interaction",
 
-        "Closed-loop RL interaction",
+        "Real-time network state monitoring and telemetry collection",
 
-        "Real-time network state monitoring",
+        "Adaptive defense policies using DQN and PPO",
 
-        "9-dimensional state vector",
+        "Multi-objective reward function integrating security, QoS, and policy stability",
 
-        "Adaptive defense policy",
+        "Automated defensive actions including flow blocking, rate limiting, traffic redirection, device isolation, and honeypot redirection",
 
-        "DQN-based decision making",
+        "ONOS REST API integration and OpenFlow-based rule deployment",
 
-        "PPO-based decision making",
+        "Multi-Seed Training with Offline and Online Validation",
 
-        "Multi-Seed Training",
+        "Experiment tracking and real-time network monitoring",
 
-        "Offline Validation",
-
-        "Online Validation",
-
-        "QoS-aware reward function",
-
-        "Security-aware reward function",
-
-        "Policy stability penalty",
-
-        "Flow blocking",
-
-        "Bandwidth rate limiting",
-
-        "Traffic redirection",
-
-        "Device isolation",
-
-        "Honeypot traffic redirection",
-
-        "ONOS REST API integration",
-
-        "OpenFlow rule deployment",
-
-        "Real-time telemetry collection",
-
-        "Experiment tracking",
-
-        "Network monitoring",
-
-        "Containerized deployment"
+        "Containerized system deployment"
     ],
 
 
@@ -4113,50 +3189,21 @@ const projects = [
     ===================================================== */
 
     skills: [
+        "Reinforcement Learning and Deep Reinforcement Learning",
 
-        "Reinforcement Learning",
+        "SDN and Network Security",
 
-        "Deep Reinforcement Learning",
+        "Cyberattack Mitigation and Network Automation",
 
-        "SDN Security",
+        "RL Environment and Reward Function Design",
 
-        "Network Security",
+        "Network Simulation and Telemetry",
 
-        "Cyberattack Mitigation",
+        "Machine Learning Experimentation and Statistical Evaluation",
 
-        "Software-Defined Networking",
+        "API Integration and Containerization",
 
-        "Network Simulation",
-
-        "Network Telemetry",
-
-        "Machine Learning Experimentation",
-
-        "Statistical Evaluation",
-
-        "Reward Function Design",
-
-        "RL Environment Design",
-
-        "Network Automation",
-
-        "API Integration",
-
-        "Containerization",
-
-        "System Monitoring",
-
-        "Data Analysis",
-
-        "Performance Evaluation",
-
-        "Troubleshooting",
-
-        "Problem Solving",
-
-        "Teamwork",
-
-        "Technical Documentation"
+        "System Monitoring, Data Analysis, and Performance Evaluation"
     ],
 
 
@@ -4166,71 +3213,33 @@ const projects = [
 
     knowledge: [
 
-        "Reinforcement Learning",
+       "Reinforcement Learning and Deep Reinforcement Learning",
 
-        "Deep Reinforcement Learning",
+        "Markov Decision Process and RL Policy Optimization",
 
-        "Markov Decision Process",
+        "DQN and PPO Algorithms",
 
-        "Deep Q-Network",
+        "Actor-Critic, Experience Replay, Target Network, and Policy Gradient",
 
-        "Proximal Policy Optimization",
+        "Multi-Seed Training and Statistical Evaluation",
 
-        "Actor-Critic Architecture",
+        "Software-Defined Networking and OpenFlow Architecture",
 
-        "Experience Replay",
+        "ONOS Controller and REST API Integration",
 
-        "Target Network",
+        "SDN Control Plane and Data Plane",
 
-        "Exploration vs Exploitation",
+        "Network Cyberattacks and Security Threats",
 
-        "Policy Gradient",
+        "DDoS, Packet-In Flood, Flow Table Overflow, IP Spoofing, and Port Scanning",
 
-        "Clipped Objective",
+        "Honeypot and Network Defense",
 
-        "Multi-Seed Training",
+        "Quality of Service and Network Performance Metrics",
 
-        "Software-Defined Networking",
+        "Network Latency, Packet Loss, Queue Length, and Controller Utilization",
 
-        "Control Plane",
-
-        "Data Plane",
-
-        "OpenFlow",
-
-        "ONOS Controller",
-
-        "Northbound API",
-
-        "Southbound API",
-
-        "REST API",
-
-        "DDoS Attack",
-
-        "Packet-In Flood",
-
-        "Flow Table Overflow",
-
-        "IP Spoofing",
-
-        "Port Scanning",
-
-        "Honeypot",
-
-        "Quality of Service",
-
-        "Network Latency",
-
-        "Packet Loss",
-
-        "Queue Length",
-
-        "Controller CPU Utilization",
-
-        "Policy Flapping",
-
-        "Statistical Significance"
+        "Policy Stability and Statistical Significance"
     ],
 
 
@@ -4612,89 +3621,27 @@ const projects = [
 
     contributions: [
 
-        "Participated in designing the overall DevOps–MLOps system architecture",
+        "Participated in designing and integrating the overall DevOps–MLOps architecture for the SDN security system",
 
-        "Participated in integrating the SDN security system with the MLOps pipeline",
+        "Participated in containerizing and orchestrating system components using Docker and Kubernetes/K3s",
 
-        "Participated in containerizing system components using Docker",
+        "Participated in configuring Kubernetes deployment, networking, security, scalability, and automated workloads",
 
-        "Participated in deploying services on Kubernetes/K3s",
+        "Participated in designing CI/CD pipelines with automated validation, testing, Docker builds, and deployment",
 
-        "Participated in defining Kubernetes namespace and service architecture",
+        "Participated in integrating MLflow for DQN and PPO experiment tracking, artifact management, and model registry",
 
-        "Participated in configuring Kubernetes Deployments",
+        "Participated in implementing RL model serving APIs and integrating inference with the SDN control loop",
 
-        "Participated in configuring Kubernetes StatefulSet for MinIO",
+        "Participated in implementing Production and Staging model management, comparison, promotion, fallback, and rollback",
 
-        "Participated in configuring Kubernetes Services and NodePorts",
+        "Participated in configuring MinIO for model and experiment artifact storage",
 
-        "Participated in using ConfigMap for monitoring and service configuration",
+        "Participated in implementing system monitoring and alerting using Prometheus, Grafana, and AlertManager",
 
-        "Participated in using Kubernetes Secrets for sensitive credentials",
+        "Participated in implementing automated model retraining and promotion workflows",
 
-        "Participated in configuring CronJob and Job for model training and initialization",
-
-        "Participated in configuring HPA for RL Serving scalability",
-
-        "Participated in designing the GitHub Actions CI pipeline",
-
-        "Participated in configuring Python code validation using flake8",
-
-        "Participated in validating Kubernetes YAML configuration",
-
-        "Participated in validating Grafana dashboard JSON configuration",
-
-        "Participated in implementing unit tests and smoke tests",
-
-        "Participated in automating Docker image build processes",
-
-        "Participated in designing local CD deployment using deploy.sh",
-
-        "Participated in deploying system components through kubectl",
-
-        "Participated in monitoring Kubernetes rollout status",
-
-        "Participated in integrating MLflow Experiment Tracking",
-
-        "Participated in managing DQN and PPO experiments",
-
-        "Participated in logging model parameters, metrics and artifacts",
-
-        "Participated in configuring MLflow Model Registry",
-
-        "Participated in configuring MinIO as MLflow artifact storage",
-
-        "Participated in implementing model Production and Staging stages",
-
-        "Participated in implementing model fallback mechanisms",
-
-        "Participated in implementing RL Serving APIs",
-
-        "Participated in implementing /health, /predict and /reload endpoints",
-
-        "Participated in integrating RL Serving with the SDN Control Loop",
-
-        "Participated in integrating ONOS state collection with RL inference",
-
-        "Participated in implementing Production and Staging model comparison",
-
-        "Participated in designing model promotion and rollback mechanisms",
-
-        "Participated in configuring Prometheus runtime metrics",
-
-        "Participated in designing Grafana monitoring dashboards",
-
-        "Participated in configuring AlertManager rules",
-
-        "Participated in implementing the Auto-Trigger webhook service",
-
-        "Participated in implementing automatic model retraining",
-
-        "Participated in implementing automatic model promotion",
-
-        "Participated in debugging deployment, monitoring and automation issues",
-
-        "Participated in documenting the complete MLOps pipeline"
+        "Participated in debugging, validating, and documenting the complete DevOps–MLOps pipeline"
     ],
 
 
@@ -4704,93 +3651,27 @@ const projects = [
 
     results: [
 
-        "Successfully built an end-to-end MLOps pipeline for an RL-based SDN security system",
+        "Successfully built and deployed an end-to-end MLOps pipeline for an RL-based SDN security system",
 
-        "Successfully containerized system services using Docker",
+        "Successfully containerized and orchestrated system services using Docker and Kubernetes/K3s",
 
-        "Successfully deployed the system on Kubernetes/K3s",
+        "Successfully implemented CI/CD with automated code, configuration, testing, build, and deployment workflows",
 
-        "Successfully created a dedicated sdn-security Kubernetes namespace",
+        "Successfully integrated MLflow and MinIO for DQN/PPO experiment tracking, artifact storage, and model registry",
 
-        "Successfully deployed ONOS Controller in the Kubernetes environment",
+        "Successfully deployed DQN and PPO model serving with health, prediction, and reload APIs",
 
-        "Successfully deployed DQN and PPO RL Serving services",
+        "Successfully integrated RL Serving and the Control Loop with ONOS Controller",
 
-        "Successfully deployed the Control Loop service",
+        "Successfully implemented Production–Staging model management, Champion-Challenger comparison, promotion, rollback, and fallback strategies",
 
-        "Successfully deployed MLflow Tracking Server",
+        "Successfully implemented Kubernetes-based scalability, configuration, security, and automated model training",
 
-        "Successfully deployed MinIO as artifact storage",
+        "Successfully implemented system and model monitoring using Prometheus, Grafana, and AlertManager",
 
-        "Successfully deployed Prometheus",
+        "Successfully implemented automated model retraining, promotion, and continuous improvement workflows",
 
-        "Successfully deployed Grafana",
-
-        "Successfully deployed AlertManager",
-
-        "Successfully deployed the Auto-Trigger automation service",
-
-        "Successfully configured Kubernetes Deployments, Services, ConfigMaps and Secrets",
-
-        "Successfully configured CronJobs and Jobs for DQN/PPO model training",
-
-        "Successfully configured Horizontal Pod Autoscaling for RL Serving",
-
-        "Successfully implemented GitHub Actions-based continuous integration",
-
-        "Successfully validated Python source code using flake8",
-
-        "Successfully validated Kubernetes manifests in CI",
-
-        "Successfully validated Grafana dashboard configuration",
-
-        "Successfully generated CI artifacts through GitHub Actions",
-
-        "Successfully implemented Local CD using deploy.sh",
-
-        "Successfully deployed all Kubernetes services through Local CD",
-
-        "Successfully tracked DQN and PPO experiments using MLflow",
-
-        "Successfully logged model parameters, metrics and artifacts",
-
-        "Successfully registered DQN and PPO models in MLflow Model Registry",
-
-        "Successfully stored model artifacts in MinIO",
-
-        "Successfully implemented Production and Staging model stages",
-
-        "Successfully implemented Champion-Challenger model comparison",
-
-        "Successfully implemented fallback to local models when MLflow or MinIO is unavailable",
-
-        "Successfully implemented DQN Serving on port 8000",
-
-        "Successfully implemented PPO Serving on port 8001",
-
-        "Successfully implemented /health endpoint",
-
-        "Successfully implemented /predict endpoint",
-
-        "Successfully implemented /reload endpoint",
-
-        "Successfully integrated the RL Control Loop with ONOS Controller",
-
-        "Successfully exported runtime metrics to Prometheus",
-
-        "Successfully created Grafana dashboards for system and model monitoring",
-
-        "Successfully configured AlertManager-based alerting",
-
-        "Successfully triggered retraining through the Auto-Trigger service",
-
-        "Successfully supported automated model promotion",
-
-        "Successfully supported model rollback and fallback strategies",
-
-        "Successfully demonstrated continuous monitoring and improvement of deployed RL models",
-
-        "Resolved deployment issues including kubeconfig errors, Prometheus YAML errors, metric mismatch, Auto-Trigger 401 Unauthorized and Grafana No Data",
+        "Successfully resolved deployment, monitoring, authentication, and automation issues across the MLOps pipeline",
 
         "Final project grade: 10.0/10"
     ],
@@ -4802,77 +3683,29 @@ const projects = [
 
     features: [
 
-        "End-to-end MLOps pipeline",
+ "End-to-end MLOps and DevOps automation",
 
-        "DevOps automation",
+        "Containerized architecture with Docker and Kubernetes/K3s orchestration",
 
-        "Containerized architecture",
+        "CI/CD pipeline with GitHub Actions, automated validation, testing, build, and deployment",
 
-        "Kubernetes orchestration",
+        "RL model training and DQN/PPO model serving",
 
-        "K3s deployment",
+        "MLflow Experiment Tracking, Model Registry, and MinIO artifact storage",
 
-        "CI/CD pipeline",
+        "Model versioning and Production–Staging lifecycle management",
 
-        "GitHub Actions CI",
+        "Champion-Challenger evaluation, model promotion, rollback, fallback, and runtime reload",
 
-        "Local Continuous Deployment",
+        "Automated retraining and promotion workflows",
 
-        "Automated source code validation",
+        "Prometheus monitoring, Grafana visualization, and AlertManager alerting",
 
-        "Smoke testing",
+        "Kubernetes autoscaling, automated workloads, and pod recovery",
 
-        "Docker image build automation",
+        "Secret and configuration management",
 
-        "RL model training",
-
-        "DQN model serving",
-
-        "PPO model serving",
-
-        "MLflow Experiment Tracking",
-
-        "MLflow Model Registry",
-
-        "MinIO artifact storage",
-
-        "Model versioning",
-
-        "Production and Staging models",
-
-        "Champion-Challenger evaluation",
-
-        "Model promotion",
-
-        "Model rollback",
-
-        "Local model fallback",
-
-        "Runtime model reload",
-
-        "Prometheus monitoring",
-
-        "Grafana visualization",
-
-        "AlertManager alerting",
-
-        "Automated retraining",
-
-        "Automated promotion",
-
-        "Auto-Trigger webhook",
-
-        "Kubernetes CronJobs",
-
-        "Horizontal Pod Autoscaling",
-
-        "Automatic pod restart",
-
-        "Secret management",
-
-        "Configuration management",
-
-        "Real-time SDN monitoring"
+        "Real-time SDN and deployed model monitoring"
     ],
 
 
